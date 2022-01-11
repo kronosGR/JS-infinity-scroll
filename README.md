@@ -3,6 +3,7 @@
 * HTML
 * CSS
 * Javascript
+* Responsive Design
 * Unsplash.com API
 
 
