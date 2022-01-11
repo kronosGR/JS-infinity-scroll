@@ -5,9 +5,10 @@
 * Javascript
 * Responsive Design
 * Unsplash.com API
+* Infinite Scroll
 
 
 ## Live site
-https://
+https://kronosgr.github.io/JS-infinity-scroll/
 
-[![Screenshot](screenshot.png)](https://)
+[![Screenshot](screenshot.png)](https://kronosgr.github.io/JS-infinity-scroll/)
